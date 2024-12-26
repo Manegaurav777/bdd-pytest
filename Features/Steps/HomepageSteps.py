@@ -40,7 +40,8 @@ def step_impl(context):
     mylogger.info("driver is closed")
     mylogger.info("hello")
     mylogger.info("Good afternoon")
-
+    mylogger.info("how are you")
+    mylogger.info("how are you")
 
 
 
