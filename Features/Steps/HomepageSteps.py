@@ -39,6 +39,7 @@ def step_impl(context):
     context.driver.close()
     mylogger.info("driver is closed")
     mylogger.info("hello")
+    mylogger.info("Good afternoon")
 
 
 
